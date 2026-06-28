@@ -1,0 +1,218 @@
+{
+    "meta": {
+      "title": "ATHAR — AI Automation for Egyptian Businesses",
+      "description": "We build AI systems that run your business while you sleep. Custom automation for small businesses across Egypt."
+    },
+  
+    "nav": {
+      "logo_alt": "ATHAR logo",
+      "links": {
+        "services": "Services",
+        "how": "How We Work",
+        "proof": "Results",
+        "faq": "FAQ"
+      },
+      "cta": "Get Started",
+      "lang_toggle": "عربي"
+    },
+  
+    "hero": {
+      "eyebrow": "AI Automation for Egyptian Businesses",
+      "headline_1": "Your business runs.",
+      "headline_2": "Even when you don't.",
+      "subline": "We build AI systems that handle the repetitive work — appointments, replies, follow-ups — so you focus on what actually moves the needle.",
+      "cta_primary": "Book a Free Consultation",
+      "cta_secondary": "Explore Services",
+      "badge": "✦ No code. No complexity. Just results."
+    },
+  
+    "problem": {
+      "eyebrow": "The Problem",
+      "headline": "Your time is being eaten alive.",
+      "subline": "Business owners across Egypt lose hours every day to tasks a machine could do faster and better.",
+      "pains": [
+        {
+          "icon": "⏳",
+          "title": "Manual Replies",
+          "body": "You're typing the same message to every client, every day — without ever feeling like you're building something."
+        },
+        {
+          "icon": "📅",
+          "title": "Appointments & Follow-ups",
+          "body": "One client forgot. Another needs a reminder. You're stuck in the middle, chasing instead of growing."
+        },
+        {
+          "icon": "📊",
+          "title": "Scattered Data",
+          "body": "Your info lives in WhatsApp, Excel, and your head. No system. No clear picture."
+        }
+      ],
+      "transition": "ATHAR fixes this."
+    },
+  
+    "solution": {
+      "eyebrow": "The Solution",
+      "headline": "AI systems that work for you.",
+      "subline": "Not tools you buy and forget. A complete system we build, integrate into your workflow, and maintain alongside you.",
+      "pillars": [
+        {
+          "number": "01",
+          "title": "Conversation Automation",
+          "body": "Reply to clients on WhatsApp and email in seconds — around the clock, automatically."
+        },
+        {
+          "number": "02",
+          "title": "Appointment Management",
+          "body": "Booking, confirmation, reminders, cancellations — handled without you touching your phone."
+        },
+        {
+          "number": "03",
+          "title": "Live Reporting",
+          "body": "Know exactly how your business is performing at any moment. Clear data, no noise."
+        }
+      ]
+    },
+  
+    "tiers": {
+      "eyebrow": "Services",
+      "headline": "Choose your level.",
+      "subline": "Each tier builds on the last. Start small, scale with confidence.",
+      "cta_all": "Talk to Us",
+      "popular_badge": "Most Popular",
+      "items": [
+        {
+          "id": "core",
+          "name": "ATHAR CORE",
+          "arabic_name": "الأساس",
+          "tagline": "Your first step into automation.",
+          "description": "Built for businesses just beginning their AI journey.",
+          "features": [
+            "Automated WhatsApp & email replies",
+            "Basic appointment booking",
+            "Weekly summary report"
+          ],
+          "cta": "Start with CORE",
+          "popular": false
+        },
+        {
+          "id": "flow",
+          "name": "ATHAR FLOW",
+          "arabic_name": "التدفق",
+          "tagline": "Run your business while you sleep.",
+          "description": "For growing businesses that need more than one automation running.",
+          "features": [
+            "Everything in CORE",
+            "Client follow-up & sales automation",
+            "Accounting system integration",
+            "Live results dashboard"
+          ],
+          "cta": "Join FLOW",
+          "popular": true
+        },
+        {
+          "id": "elite",
+          "name": "ATHAR ELITE",
+          "arabic_name": "النخبة",
+          "tagline": "Full automation. Measurable results.",
+          "description": "For businesses ready to transform how they operate entirely.",
+          "features": [
+            "Everything in FLOW",
+            "Custom AI systems built for your business",
+            "Full integration with your existing tools",
+            "Dedicated account manager",
+            "Priority support & development"
+          ],
+          "cta": "Let's Talk ELITE",
+          "popular": false
+        }
+      ]
+    },
+  
+    "process": {
+      "eyebrow": "How We Work",
+      "headline": "3 steps. That's it.",
+      "subline": "From first conversation to live system — as fast as possible.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Free Consultation",
+          "body": "We talk, we understand your business, and we identify exactly where AI will make a real difference."
+        },
+        {
+          "number": "02",
+          "title": "We Build the System",
+          "body": "We design and build your automation — without disrupting your day-to-day for a minute."
+        },
+        {
+          "number": "03",
+          "title": "You Run. You Grow.",
+          "body": "Your system goes live. We stay with you to monitor, refine, and scale."
+        }
+      ]
+    },
+  
+    "proof": {
+      "eyebrow": "Results",
+      "headline": "The numbers speak.",
+      "subline": "Real Egyptian businesses. Real outcomes.",
+      "stats": [
+        { "value": "70%", "label": "Reduction in time spent on routine tasks" },
+        { "value": "3×", "label": "Faster client response time" },
+        { "value": "24/7", "label": "Operations without interruption" }
+      ],
+      "testimonials_headline": "What our partners say",
+      "testimonials": [
+        {
+          "quote": "Before ATHAR, I spent 3 hours a day on WhatsApp replies. Now the system handles it entirely on its own.",
+          "name": "Dr. Mariam Salem",
+          "role": "Dentist, Cairo"
+        },
+        {
+          "quote": "Appointments are organized for the first time ever. Clients get reminded, and last-minute cancellations dropped by 60%.",
+          "name": "Ahmed El-Sharif",
+          "role": "Aesthetic Clinic Owner, Alexandria"
+        }
+      ]
+    },
+  
+    "faq": {
+      "eyebrow": "FAQ",
+      "headline": "Got questions?",
+      "subline": "The questions we always get — answered honestly.",
+      "items": [
+        {
+          "q": "Do I need to know how to code?",
+          "a": "Not at all. We build everything. Your only job is telling us what you need."
+        },
+        {
+          "q": "How long does setup take?",
+          "a": "CORE takes 5–7 days. FLOW takes 2–3 weeks. ELITE gets a custom timeline."
+        },
+        {
+          "q": "What if I'm not satisfied?",
+          "a": "We work with clear contracts. You sign off before the final payment — we guarantee your satisfaction first."
+        },
+        {
+          "q": "Will it work with my existing tools?",
+          "a": "Most likely yes. We support WhatsApp, email, Google Calendar, and many more. We'll tell you exactly after your consultation."
+        },
+        {
+          "q": "Is there support after launch?",
+          "a": "Always. Every plan includes ongoing support. ELITE gets a dedicated account manager."
+        }
+      ]
+    },
+  
+    "footer": {
+      "tagline": "ATHAR — We make your business unforgettable.",
+      "cta_headline": "Ready to start?",
+      "cta_subline": "Free consultation. No commitment.",
+      "cta_primary": "Book Now",
+      "cta_whatsapp": "Chat with us on WhatsApp",
+      "links": {
+        "privacy": "Privacy Policy",
+        "terms": "Terms & Conditions"
+      },
+      "copyright": "© 2025 ATHAR. All rights reserved."
+    }
+  }
